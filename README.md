@@ -1,6 +1,6 @@
 April, 2021
 
-# face-detection-images
+# face-detection-images-cnn
 
 [See code and output in html file](https://htmlpreview.github.io/?https://github.com/shamalle/face-detection-images/blob/f0058326d323d7ca18125f1d95a75457603769be/face-detection-images.html)
 
