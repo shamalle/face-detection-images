@@ -8,6 +8,10 @@ In this project, a convolutional neural network (CNN) is implemented and trained
 
 Because of the model being fully convolutional (no fixed size inputs of layers) it can be used on bigger images and get a spatial map of face scores for different image patches (face recognition).
 
+### Data sets
+
+The data sets for training and testing was given from the course coordinator. Not included in this repository. Consisted of face and no-face images of size 48x48 pixels as well as ground truth information for evaluation phase.
+
 
 ### Faces recognized with ground truth (green boxes)
 
